@@ -1,0 +1,1 @@
+pyuic5 A:\Project\PortfolioOfSecurities\PortfolioOfSecuritiesWindows.ui -x A:\Project\PortfolioOfSecurities\PortfolioOfSecuritiesWindows.py
